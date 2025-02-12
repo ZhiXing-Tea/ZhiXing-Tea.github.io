@@ -1,0 +1,528 @@
+    .img_product {
+        margin: 0px 0px 10px 0px;
+        float: left;
+    }
+
+    a {
+        font-size: 10pt;
+        text-decoration: none;
+        line-height: 100%;
+        color: #ef4418;
+    }
+
+    a:active {
+        color: #67a7d3
+    }
+
+    a:hover {
+        color: #67a7d3
+    }
+
+    .word_color_left_lsit {
+        font-size: 10pt;
+        color: #000000;
+        line-height: 120%;
+        font-weight: bold;
+        /*文字粗體*/
+    }
+
+    .word_color_blue {
+        color: #2e0de6;
+        font-size: 10pt;
+        line-height: 110%;
+    }
+
+    .word_color_red {
+        color: #f72314;
+        font-size: 10.5pt;
+        line-height: 110%;
+        font-weight: bold;
+        /*文字粗體*/ 
+    }
+
+    .word_color_product1 {
+        font-size: 10pt;
+        color: #000000;
+        line-height: 120%;
+        font-weight: bold;
+        /*文字粗體*/
+    }
+    .word_color_product2 {
+
+        font-size: 10pt;
+        color: #7d7d7d;
+        line-height: 140%;
+
+    }
+
+    .word_color_grey {
+
+        font-size: 10pt;
+        color: #535353;
+        line-height: 150%;
+    }
+
+    .word_color_black {
+
+        font-size: 10pt;
+        color: #111010;
+        line-height: 150%;
+    }
+
+
+
+
+
+
+
+
+
+/*以下暫無用到*/
+    .img0 {
+        margin: 10px 0px 0px 0px;
+        float: left;
+    }
+
+    .img1-1 {
+        padding: 6px 6px 6px 6px;
+        border-color: #ebebeb;
+        /*簡化 四邊框線色彩*/
+        border-width: 1px;
+        /*簡化 四邊框線寬度*/
+        border-style: solid;
+        /*簡化 四邊框線樣式*/
+        background-color: #ffffff;
+        /*背景色彩*/
+
+    }
+
+    .img1-2 {
+        margin: 0px 10px 0px 5px;
+        float: left;
+
+    }
+
+    .img2 {
+        padding: 8px 8px 8px 8px;
+        border-color: #d4c4b2;
+        /*簡化 四邊框線色彩*/
+        border-width: 1px;
+        /*簡化 四邊框線寬度*/
+        border-style: solid;
+        /*簡化 四邊框線樣式*/
+        margin: 0pt 0pt 0pt 0pt;
+    }
+
+    .img4 {
+        border-color: #7d7d7d;
+        /*簡化 四邊框線色彩*/
+        padding: 8px 8px 8px 8px;
+        border-width: 1px;
+        /*簡化 四邊框線寬度*/
+        border-style: solid;
+        /*簡化 四邊框線樣式*/
+        box-shadow: 0px 5px 15px #d7d7d7;
+        -moz-box-shadow: 0px 5px 15px #d7d7d7;
+        -webkit-box-shadow: 0px 5px 15px #d7d7d7;
+        margin: 10pt 0pt 20pt 0pt;
+
+    }
+
+    .img3 {
+        border-color: #7d7d7d;
+        /*簡化 四邊框線色彩*/
+        border-width: 1px;
+        /*簡化 四邊框線寬度*/
+        border-style: solid;
+        /*簡化 四邊框線樣式*/
+        box-shadow: 0px 5px 15px #d7d7d7;
+        -moz-box-shadow: 0px 5px 15px #d7d7d7;
+        -webkit-box-shadow: 0px 5px 15px #d7d7d7;
+        margin: 10pt 10pt 0pt 0pt;
+
+    }
+
+    .img5 {
+        float: left;
+        /*標籤元素向右靠.文字圍繞在左邊*/
+
+        background-color: #ffffff;
+        /*背景色彩*/
+        margin: 19px 50px 9px 83px;
+
+    }
+
+    .table {
+        border: 1px solid #AAAAAA;
+        border-right: 0;
+        border-bottom: 0;
+    }
+
+    .table td,
+    table th {
+        border: 1px solid #AAAAAA;
+        border-left: 0;
+        border-top: 0;
+    }
+
+
+
+    .one {
+        color: #7d7d7d;
+        font-size: 10pt;
+        padding: 0px 0px 20px 0px;
+        line-height: 110%
+    }
+
+    .ABCDEF01 {
+        color: #000000;
+        font-size: 10pt;
+        text-decoration: underline;
+        /*加底線*/
+        line-height: 150%;
+        font-weight: bold;
+        /*文字粗體*/
+    }
+
+
+    .ABCDEF02 {
+        color: #ffffff;
+
+        font-size: 10pt;
+        line-height: 150%;
+    }
+
+    .ABCDEF03 {
+        color: #59493F;
+
+        font-size: 10pt;
+        line-height: 150%;
+    }
+
+
+
+
+    .ABCDEF04 {
+        font-weight: bold;
+        /*文字粗體*/
+        font-size: 10pt;
+        color: #6a3906;
+        line-height: 150%;
+    }
+
+    .ABCDEF04-1 {
+        font-weight: bold;
+        /*文字粗體*/
+        font-size: 12pt;
+        color: #6a3906;
+        line-height: 150%;
+    }
+
+    .ABCDEF05 {
+        text-align: justify;
+        text-justify: inter-ideograph;
+
+        font-size: 12pt;
+        color: #000000;
+        line-height: 130%;
+    }
+
+    .ABCDEF06 {
+        font-weight: bold;
+        /*文字粗體*/
+        font-size: 11pt;
+        color: #295393;
+        line-height: 150%;
+    }
+
+    .ABCDEF07 {
+        color: #000000;
+        border-width: 1px;
+        /*簡化 四邊框線寬度*/
+    }
+
+    .ABCDEF08 {
+        color: #d1c0a5;
+
+        font-size: 12pt;
+        line-height: 150%;
+    }
+
+    .ABCDEF09 {
+        color: #d5713f;
+
+        font-size: 12pt;
+        line-height: 150%;
+    }
+
+    .ABCDEF10 {
+        color: #11b5c1;
+
+        font-size: 10pt;
+        line-height: 150%;
+        font-weight: bold;
+        /*文字粗體*/
+
+    }
+
+    .ABCDEF11 {
+        color: #7d7d7d;
+        font-size: 10pt;
+        line-height: 150%;
+
+    }
+
+    .ABCDEF12 {
+        color: #ffffff;
+        font-size: 12pt;
+        line-height: 110%;
+
+
+
+    }
+
+    .ABCDEF13 {
+        color: #4d1717;
+
+        font-size: 10pt;
+        font-weight: bold;
+        /*文字粗體*/
+        line-height: 150%;
+    }
+
+    .ABCDEF13-1 {
+        color: #4d1717;
+
+        font-size: 12pt;
+        font-weight: bold;
+        /*文字粗體*/
+        line-height: 150%;
+    }
+
+    .ABCDEF14 {
+        color: #efd771;
+        line-height: 120%;
+        font-size: 10pt;
+    }
+
+
+    .ABCDEF16 {
+        color: #ef4418;
+        font-weight: bold;
+        /*文字粗體*/
+        font-size: 10pt;
+        line-height: 100%;
+    }
+
+    .ABCDEF16-1 {
+        color: #000;
+        font-weight: bold;
+        /*文字粗體*/
+        font-size: 10pt;
+        line-height: 100%;
+    }
+
+    .ABCDEF17 {
+        color: #FFFFFF;
+        font-size: 10pt;
+        line-height: 140%;
+    }
+
+    .ABCDEF18 {
+        color: #234593;
+
+        font-size: 16pt;
+        font-weight: bold;
+        /*文字粗體*/
+        line-height: 100%;
+    }
+
+    .ABCDEF19 {
+        color: #1d3b46;
+
+        font-size: 10pt;
+        line-height: 110%;
+
+    }
+
+    .ABCDEF20 {
+        color: #00561F;
+        font-size: 10pt;
+
+        line-height: 150%;
+    }
+
+    .ABCDEF21 {
+        color: #8d997f;
+        font-size: 10pt;
+
+        line-height: 150%;
+    }
+
+    .ABCDEF22 {
+        color: #7ca900;
+        font-size: 12pt;
+        font-weight: bold;
+        line-height: 100%;
+    }
+
+    .ABCDEF23 {
+        color: #7ca900;
+        font-size: 10pt;
+
+        line-height: 100%;
+    }
+
+    .ABCDEF24 {
+        color: #468107;
+        font-size: 10pt;
+
+        font-weight: bold;
+        /*文字粗體*/
+        line-height: 110%;
+    }
+
+    .ABCDEF25 {
+        color: #58c3f0;
+        font-size: 12pt;
+
+        line-height: 180%;
+    }
+
+    .ABCDEF26 {
+        color: #958879;
+
+        font-size: 10pt;
+        line-height: 150%;
+
+    }
+
+    .ABCDEF27 {
+        color: #7d7d7d;
+
+        font-size: 10pt;
+        line-height: 150%;
+
+    }
+
+    .ABCDEF27-2 {
+        color: #FFFFFF;
+
+        font-size: 09pt;
+        line-height: 150%;
+
+    }
+
+    .ABCDEF28 {
+        color: #bfbfbf;
+        font-family: "微軟正黑體", "新細明體";
+        font-size: 12pt;
+        line-height: 120%;
+        font-weight: bold;
+        /*文字粗體*/
+
+    }
+
+    .ABCDEF29 {
+        color: #6a3906;
+        font-size: 10pt;
+        line-height: 150%;
+        font-weight: bold;
+        /*文字粗體*/
+
+    }
+
+    .ABCDEF30 {
+        color: #94656e;
+
+        font-size: 12pt;
+        line-height: 150%;
+
+    }
+
+    .ABCDEF31 {
+        color: #af4722;
+
+        font-size: 09pt;
+        line-height: 110%;
+    }
+
+    .ABCDEF32 {
+
+        font-size: 10pt;
+        color: #958879;
+        line-height: 150%;
+
+    }
+
+
+
+    .ABCDEF34 {
+
+        font-size: 10pt;
+        color: #362e2b;
+        line-height: 120%;
+
+    }
+
+    .ABCDEF35 {
+
+        font-size: 10pt;
+        color: #000000;
+        line-height: 150%;
+
+    }
+
+    .ABCDEF36 {
+        font-weight: bold;
+        /*文字粗體*/
+        font-size: 10pt;
+        color: #535353;
+        line-height: 150%;
+    }
+
+    .ABCDEF37 {
+
+        font-size: 10pt;
+        color: #75c7bb;
+        line-height: 130%;
+    }
+
+
+    .ABCDEF38-1 {
+        text-decoration: underline;
+        /*加底線*/
+        font-size: 12pt;
+        color: #000000;
+        line-height: 120%;
+        font-weight: bold;
+        /*文字粗體*/
+    }
+
+    .ABCDEF39 {
+
+        font-size: 10pt;
+        color: #556fb5;
+        font-weight: bold;
+        line-height: 150%;
+    }
+
+    .ABCDEF40 {
+
+        font-size: 9pt;
+        color: #BFBFBF;
+        line-height: 100%;
+    }
+
+    .ABCDEF41 {
+
+        font-size: 10pt;
+        color: #852741;
+    }
+
+
+    #justify {
+        text-align: justify;
+        text-justify: inter-ideograph;
+        width: 661px;
+    }
